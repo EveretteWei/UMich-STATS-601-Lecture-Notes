@@ -1,4 +1,11 @@
-# STATS 601: Advanced Statistical Learning Lecture Notes
+# Lecture Notes for STATS 601: Advanced Statistical Learning
+
+## Instructor
+Professor [Kean Ming Tan](http://www.keanmingtan.com/); 
+GSI: [Kihyuk Hong](https://kihyukh.github.io/),  University of Michigan.
+
+## Author
+**Ziheng Wei**  
 
 ## Before You Read
 
@@ -28,8 +35,6 @@ I hope they help even one student or any enthusiast of theoretical ML master the
 ## Repository Structure
 
 - `STATS_601_Lecture_Notes.tex` — LaTeX source files  
-- `images/` — all image assets  
+- `images/` — all image assets used in the tex file
 
-## Author
 
-**Ziheng Wei**  
