@@ -36,5 +36,6 @@ I hope they help even one student or any enthusiast of theoretical ML master the
 
 - `STATS_601_Lecture_Notes.tex` — LaTeX source files  
 - `images/` — all image assets used in the tex file
+- `STATS_601_Lecture_Notes.pdf` — notes pdf file
 
 
