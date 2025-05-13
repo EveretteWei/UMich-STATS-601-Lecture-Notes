@@ -1,4 +1,4 @@
-# Lecture Notes for STATS 601: Advanced Statistical Learning
+# Lecture Notes for STATS 601: Advanced Statistical Learning (WN 2025)
 
 ## Instructor
 Professor [Kean Ming Tan](http://www.keanmingtan.com/); 
